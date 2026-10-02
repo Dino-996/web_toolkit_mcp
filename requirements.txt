@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+# pip install -r requirements.txt --upgrade
+mcp>=2.2,<3
+ddgs>=9.16,<10
+requests>=2.32,<3
+beautifulsoup4>=4.13,<5
+lxml>=6.1,<7
+playwright>=1.63,<2 # Dopo l'installazione:  playwright install chromium
