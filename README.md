@@ -1,5 +1,4 @@
 # 🌐Web Toolkit MCP
-Server MCP per integrare ricerca web in tempo reale, scraping di pagine statiche/dinamiche e analisi HTTP in LLM locali.
 
 Questo toolkit consente a modelli eseguiti in locale di accedere a Internet in modo sicuro, superando i limiti della conoscenza statica e recuperando contenuti aggiornati.
 
