@@ -21,7 +21,7 @@ Il server espone 4 strumenti principali tramite trasporto STDIO:
 1. **Prerequisiti:** Python 3.10 o superiore e Node.js installati nel sistema.
 2. **Clona il repository e crea l'ambiente virtuale:**
 	```bash
-   git clone https://github.com/tuo-utente/web_toolkit_mcp.git
+   git clone https://github.com/Dino-996/web_toolkit_mcp.git
    cd web_toolkit_mcp
    python -m venv .venv
    ```
